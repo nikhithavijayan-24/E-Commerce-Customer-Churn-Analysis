@@ -1,6 +1,6 @@
 # E-Commerce Customer Churn Analysis
 
-#— MySQL
+# MySQL
 
 ### Project Objective
 
