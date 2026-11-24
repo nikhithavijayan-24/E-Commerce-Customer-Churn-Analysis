@@ -1,6 +1,6 @@
 # E-Commerce Customer Churn Analysis
 
-## Module End Assignment 2 — MySQL
+#— MySQL
 
 ### Project Objective
 
